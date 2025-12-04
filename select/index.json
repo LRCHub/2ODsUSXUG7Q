@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Broken Heart of Gold (Acoustic)",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-04T13:39:03.391718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Broken Heart of Gold (Acoustic)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Broken_Heart_of_Gold_(Acoustic)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Broken Heart of Gold - Acoustic",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Broken_Heart_of_Gold_-_Acoustic_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Broken Heart of Gold (Acoustic - Japanese Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Broken_Heart_of_Gold_(Acoustic_-_Japanese_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Broken Heart of Gold - Acoustic - Japanese Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Broken_Heart_of_Gold_-_Acoustic_-_Japanese_Version_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Broken Heart of Gold (Acoustic - Japanese Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Broken_Heart_of_Gold_(Acoustic_-_Japanese_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Heart of Gold (Acoustic) [International Version]",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/06_Broken_Heart_of_Gold_(Acoustic)_[International_Version]_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Broken Heart of Gold (Acoustic)",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Broken_Heart_of_Gold_(Acoustic)_ONE_OK_ROCK.txt"
+    }
+  ]
+}
