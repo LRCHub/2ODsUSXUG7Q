@@ -1,0 +1,54 @@
+# ONE OK ROCK – Broken Heart of Gold (Acoustic)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.21] I move along
+[00:23.11] Something's wrong
+[00:26.74] I guess a part of me is gone
+[00:39.46] Skies are gray
+[00:45.32] Start to fade
+[00:49.02] I guess I threw it all away
+[01:02.52] 
+[00:58.23] Sometimes I just wanna quit
+[01:01.51] Tell my life I'm done with it
+[01:04.77] When it feels too painful
+[01:09.22] Sometimes I just wanna say
+[01:12.53] I love myself but not today
+[01:16.03] When it feels too painful
+[01:28.53] 
+[01:18.18] I smash my broken heart of gold
+[01:23.85] I smash my broken heart of gold
+[01:39.35] 
+[01:33.29] Tired soul
+[01:38.64] Dying hope
+[01:42.29] I guess I'm running out of road
+[01:53.37] I guess I've got nowhere
+[02:05.37] 
+[01:59.88] Sometimes I just wanna quit
+[02:03.18] Tell my life I'm done with it
+[02:06.40] When it feels too painful
+[02:11.03] Sometimes I just wanna say
+[02:14.47] I love myself but not today
+[02:17.47] When it feels too painful
+[02:29.97] 
+[02:19.86] I smash my broken heart of gold
+[02:25.41] I smash my broken heart of gold
+[02:31.04] I smash my broken heart of gold
+[02:46.54] 
+[02:34.82] もう消えそうで
+[02:40.37] 弱り切った声で
+[02:45.61] また振り払って
+[02:51.16] でも feels like I'm in hell, I'm in hell
+[03:10.16] 
+[03:01.38] Sometimes I just wanna quit
+[03:04.83] Tell my life I'm done with it
+[03:08.09] When it feels too painful
+[03:12.65] Sometimes I just wanna say
+[03:16.16] I love myself but not today
+[03:19.31] When it feels too painful
+[03:31.81] 
+[03:21.38] I smash my broken heart of gold
+[03:26.97] I smash my broken heart of gold
+[03:32.69] I smash my broken heart of gold
+```
